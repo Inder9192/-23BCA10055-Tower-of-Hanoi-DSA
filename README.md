@@ -1,2 +1,2 @@
-# Minor-project
-This is a game we are developing in DS
+# Minor-project of DSA
+Tower of Hanoi game developed in c++ using DSA concepts.
